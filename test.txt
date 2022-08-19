@@ -3,4 +3,6 @@
 
 My first text file in Git.
 
+added in main branch
+
 i added first change
